@@ -1,0 +1,3 @@
+[submodule "plants"]
+	path = plants
+	url = https://fycn18@bitbucket.org/fycn18/plants.git
